@@ -58,3 +58,4 @@ C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\o
 C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.frmVentas.resources
 C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.Prueba.resources
 C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu catalogo.vbproj.GenerateResource.Cache
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.ventas.resources
