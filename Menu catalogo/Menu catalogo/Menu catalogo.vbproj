@@ -170,6 +170,12 @@
     <Compile Include="Prueba.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="ventas.Designer.vb">
+      <DependentUpon>ventas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ventas.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Acerca de .resx">

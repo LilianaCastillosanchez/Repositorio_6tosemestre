@@ -35,3 +35,26 @@ C:\Users\LILI\Documents\Visual Studio 2015\Projects\Menu catalogo\Menu catalogo\
 C:\Users\LILI\Documents\Visual Studio 2015\Projects\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.FrmListaMateriales.resources
 C:\Users\LILI\Documents\Visual Studio 2015\Projects\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.frmProductos.resources
 C:\Users\LILI\Documents\Visual Studio 2015\Projects\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.AboutBox1.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\bin\Debug\Menu catalogo.exe.config
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu catalogo.exe
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu catalogo.xml
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu catalogo.pdb
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\bin\Debug\PizzeriaPalitroche.mdf
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\bin\Debug\PizzeriaPalitroche_log.ldf
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\bin\Debug\Menu catalogo.exe
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\bin\Debug\Menu catalogo.pdb
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\bin\Debug\Menu catalogo.xml
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu catalogo.vbprojResolveAssemblyReference.cache
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.AboutBox1.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.Catalogo_Articulos.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.FrmListaMateriales.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.frmProductos.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.frmPromComb.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.Codigodebarras.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.Empleados.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.Inicio.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.Catalogo.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.Resources.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.frmVentas.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu_catalogo.Prueba.resources
+C:\Users\LILI\Source\Repos\Repositorio_6tosemestre\Menu catalogo\Menu catalogo\obj\Debug\Menu catalogo.vbproj.GenerateResource.Cache
