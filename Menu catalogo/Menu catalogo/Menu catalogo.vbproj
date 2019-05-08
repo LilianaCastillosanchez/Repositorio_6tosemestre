@@ -217,6 +217,9 @@
     <EmbeddedResource Include="Prueba.resx">
       <DependentUpon>Prueba.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ventas.resx">
+      <DependentUpon>ventas.vb</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="My Project\Application.myapp">
